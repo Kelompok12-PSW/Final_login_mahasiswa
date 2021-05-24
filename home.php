@@ -54,8 +54,8 @@
   <!-- <a href="data_mahasiswa_akademis.php"><i class="fa fa-fw fa-graduation-cap"></i> Data Mahasiswa</a> -->
   <div class="dropdown">
     <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <i class="fa fa-fw fa-user"></i>
-        Akun
+      <i class="fa fa-fw fa-graduation-cap"></i>
+        Data Mahasiswa
     </a>
 
     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
@@ -64,7 +64,7 @@
     </div>
   </div>
   <!-- <a href="#"><i class="fa fa-fw fa-user"></i> Data Akademik</a>  -->
-  <!-- <div class="dropdown">
+  <div class="dropdown">
     <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <i class="fa fa-fw fa-user"></i>
         Data Akademik
@@ -74,7 +74,7 @@
         <a class="dropdown-item" href="data_mahasiswa_prodi.php">Data Prodi</a>
         <a class="dropdown-item" href="data_mahasiswa_matkul.php">Data Mata Kuliah</a>
     </div>
-    </div> -->
+    </div>
     <a href="logout.php"><i class="fa fa-fw fa-sign-out"></i> Logout</a>
   </div>
 
